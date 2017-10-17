@@ -1,0 +1,77 @@
+.logo{
+	display: block;
+	width: 63px;
+	height: 42px !important;
+	margin-top: 9px;
+	background: url('../img/hdr-spr.png') no-repeat 0 -512px;
+}
+
+@media screen and (min-width: 992px) {
+	.text-desc{
+		position: relative;
+	}
+	.text{
+		position: absolute;
+		padding: 15px;
+		left: 15px;
+		bottom: 0;
+		color: #fff;
+	}
+}
+
+.menu-login{
+	width: 300px;
+	padding: 0 15px 15px !important;
+	background-color: #fff !important;
+}
+
+.search-content{
+	line-height: 60px;
+	color: #fff;
+}
+ul,li{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.layer{
+	float:left;
+	position: relative;
+	overflow: hidden;
+}
+
+.layer-bg{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	left: 0;
+	top: 80%;
+	background-color: rgba(255, 255, 255, .7);
+	color: #fff;
+}
+
+.dropdown-menu>.divider{
+	margin: 0 !important;
+}
+
+.b-bg{
+	background-color: #0062A9;
+}
+
+.footer{
+	background-color: #fff;
+}
+
+.m{
+	margin-top: 20px;
+}
+
+.wel-inter{
+	color: #fff;
+	font-size: 24px;
+}
+
+.w{
+	color: #fff;
+}

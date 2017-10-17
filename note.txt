@@ -1,0 +1,38 @@
+1、less全局安装的路径 ==> C:\Users\Administrator\AppData\Roaming\npm
+
+2、ls: 查看文件夹和文件
+
+3、cd /c 进入c盘
+
+4、/c , cd ./test 进入test文件夹
+
+5、 mkdir test 在当前目录创建文件夹
+
+6、touch t.txt 创建t.txt文件
+
+7、mv t.txt home.html 将t.txt文件修改为 home.html文件
+
+8、 cd .. 退出一个文件夹  cd ../.. 退出两个文件夹
+
+9、mv ./test/home.html ./home/home.html  将test文件夹的home.html文件移到home文件夹
+
+10、rm home.html 删除home.html文件
+
+11、 rm -rf home 强制递归删除home文件夹 -r 递归  -f 强制
+
+12、cat test.html 查看test.html文件
+
+13、vim test.html 修改test.html文件 按 i 键进入编辑模式, 按 esc键退出编辑模式, :wq 保存并且退出编辑模式; :!q 不保存退出(:q!)
+
+14、@light-blue: #0071C5; //导航条和下拉菜单颜色
+
+	@mune-hover-blue: #00AEEF; //下拉菜单颜色hover颜色
+
+	@border-blue: #015A9E; //登录框的边框颜色
+
+	@body-blue: #0062A9;	// 主体颜色
+
+	@footer-blue: #0071C5; //脚步字体颜色
+
+
+
